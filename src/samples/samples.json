@@ -1,0 +1,56 @@
+{
+  "indigo.webp": {
+    "name": {
+      "en": "Indigo Line",
+      "zh": "靛蓝"
+    },
+    "family": "F12",
+    "palette": [
+      {
+        "name": "Indigo",
+        "hex": "#34406D"
+      },
+      {
+        "name": "Brass",
+        "hex": "#B5985B"
+      }
+    ],
+    "provider": "Demo artwork"
+  },
+  "coral.webp": {
+    "name": {
+      "en": "Coral Stone",
+      "zh": "珊瑚石"
+    },
+    "family": "F02",
+    "palette": [
+      {
+        "name": "Coral",
+        "hex": "#E8A197"
+      },
+      {
+        "name": "Champagne",
+        "hex": "#CDBA97"
+      }
+    ],
+    "provider": "Demo artwork"
+  },
+  "silver.webp": {
+    "name": {
+      "en": "Silver Flute",
+      "zh": "银棱"
+    },
+    "family": "F03",
+    "palette": [
+      {
+        "name": "Silver",
+        "hex": "#A9ABAD"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#515258"
+      }
+    ],
+    "provider": "Demo artwork"
+  }
+}

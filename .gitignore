@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+.env*
+*.pem
+*.key
+*.log
+*.db
+*.sqlite*
+private/
+/src/samples/*
+!/src/samples/indigo.webp
+!/src/samples/coral.webp
+!/src/samples/silver.webp
+!/src/samples/samples.json
